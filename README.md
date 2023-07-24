@@ -4,6 +4,8 @@ This project is a binary classifier that recognizes the mood of a person from a 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Mohammed-khair/AI_Game_Jam_EXPAND/blob/master/Convolutional_neural_network_from_scratch.ipynb](https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN#scrollTo=WSX-FoiLPkvS))
 
+https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN?usp=sharing
+
 ## Overview
 
 In this project, we have built a mood identifier using the TensorFlow Keras API with a Convolutional Neural Network (CNN) architecture. The goal is to classify whether a person in an input image is "happy" or "not happy".
