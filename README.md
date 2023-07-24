@@ -2,9 +2,9 @@
 
 This project is a binary classifier that recognizes the mood of a person from a picture of their face. It was completed as an exercise in the course "Convolutional Neural Network" offered on Coursera.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Mohammed-khair/AI_Game_Jam_EXPAND/blob/master/Convolutional_neural_network_from_scratch.ipynb](https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN#scrollTo=WSX-FoiLPkvS))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN?usp=sharing)
 
-https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN?usp=sharing
+
 
 ## Overview
 
